@@ -1,0 +1,280 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+html{
+	font-size: 100%;
+	margin: center;
+}
+body{
+	background-image: url(../img/fondo.jpg);
+	background-size: cover;
+}
+header{
+	background-color: black;
+	text-align: center;
+	margin: auto;
+}
+h1{
+	text-shadow: 2px 2px #635E5D;
+	letter-spacing: 15px;
+	color: #ece2d0;
+	font-family: 'Sacramento', cursive;
+}
+img{
+	height: 15vh;
+}
+nav{
+	background-color: #ece2d0;
+	padding: 2vh;
+}
+nav li{
+	display: inline-block;
+	padding-left: 12.5vw;
+}
+nav a{
+	text-decoration: none;
+	font-family: 'PT Sans Caption', sans-serif;
+	color: black;
+}
+.presentacion{
+	padding: 2vh;
+}
+.yo{
+	height: 45vh;
+	margin: center;
+	box-shadow: 4px 4px #635E5D;
+
+}
+h2{
+	text-align: center;
+	text-shadow: 2px 2px #ece2d0;
+	font-family: 'Dancing Script', cursive;
+	font-size: 2rem;
+	margin-top: 5vh;
+}
+.intro{
+	font-family: 'PT Sans Caption', sans-serif;
+	text-align: justify;
+	font-size: 1rem;
+	margin-top: 5vh;
+}
+section{
+	text-align: center;
+}
+.hab{
+	margin-top: 10vh;
+	padding: 2vh;
+}
+section .logos{
+	height: 10vh;
+	margin-top: 5%;
+}
+h3{
+	text-shadow: 2px 2px #ece2d0;
+	margin-top: 15vh;
+	text-align: center;
+	font-family: 'Dancing Script', cursive;
+	font-size: 2rem;
+}
+p{
+	font-family: 'PT Sans Caption', sans-serif;
+	text-align: center;
+	font-size: 1rem;
+	margin-top: 5vh;
+}
+footer{
+	background-color: black;
+	margin-top: 15vh;
+	
+}
+footer h5{
+	text-align: center;
+	font-family: 'PT Sans Caption', sans-serif;
+	color: #ece2d0;
+	font-size: .9rem;
+	margin-top: 5vh;
+	margin-left: 5vw;
+}
+footer img .redes{
+	height: 7vh;
+	margin-top: 5vh;
+	margin: center;
+}
+h6{
+	text-align: center;
+	color: #ece2d0;
+}
+
+/*Fotografía*/
+
+body{
+	background-image: url(../img/fondo.jpg);
+}
+header{
+	background-color: black;
+	text-align: center;
+	margin: auto;
+}
+h1{
+	text-shadow: 2px 2px #635E5D;
+	letter-spacing: 15px;
+	color: #ece2d0;
+	font-family: 'Sacramento', cursive;
+}
+img{
+	height: 15vh;
+}
+main .titulo{
+	text-align: center;
+	text-shadow: 2px 2px #ece2d0;
+	font-family: 'Dancing Script', cursive;
+	font-size: 2rem;
+	margin-top: 5vh;
+}
+section{
+	margin-top: 5vh;
+}
+.f1 img{
+	height:50vh;
+	box-shadow: 4px 4px #635E5D;
+}
+.f2 img{
+	height:90vh;
+	margin-top: 5vh;
+	box-shadow: 4px 4px #635E5D;
+}
+.f3 img{
+	height:90vh;
+	margin-top: 5vh;
+	box-shadow: 4px 4px #635E5D;
+}
+.f4 img{
+	height:90vh;
+	margin-top: 5vh;
+	box-shadow: 4px 4px #635E5D;
+}
+.f5 img{
+	height:50vh;
+	margin-top: 5vh;
+	box-shadow: 4px 4px #635E5D;
+}
+footer{
+	background-color: black;
+	margin-top: 15vh;
+	
+}
+footer img{
+	height: 7vh;
+	margin-top: 5vh;
+	margin: center;
+}
+h6{
+	text-align: center;
+	color: #ece2d0;
+}*/
+
+/*Diseño*/
+body{
+	background-image: url(../img/fondo.jpg);
+}
+header{
+	background-color: black;
+	text-align: center;
+	margin: auto;
+}
+h1{
+	text-shadow: 2px 2px #635E5D;
+	letter-spacing: 15px;
+	color: #ece2d0;
+	font-family: 'Sacramento', cursive;
+}
+img{
+	height: 15vh;
+}
+h2{
+	text-align: center;
+	text-shadow: 2px 2px #ece2d0;
+	font-family: 'Dancing Script', cursive;
+	font-size: 2rem;
+	margin-top: 5vh;
+}
+section{
+	margin-top: 5vh;
+}
+.ed1 img{
+	height:90vh;
+	box-shadow: 4px 4px #635E5D;
+}
+.ed2 img{
+	height:90vh;
+	margin-top: 5vh;
+	box-shadow: 4px 4px #635E5D;
+}
+.ed3 img{
+	height:90vh;
+	margin-top: 5vh;
+	box-shadow: 4px 4px #635E5D;
+}
+.ed4 img{
+	height:50vh;
+	margin-top: 5vh;
+	box-shadow: 4px 4px #635E5D;
+}
+
+/*Ilustración*/
+
+body{
+	background-image: url(../img/fondo.jpg);
+}
+header{
+	background-color: black;
+	text-align: center;
+	margin: auto;
+}
+h1{
+	text-shadow: 2px 2px #635E5D;
+	letter-spacing: 15px;
+	color: #ece2d0;
+	font-family: 'Sacramento', cursive;
+}
+img{
+	height: 15vh;
+}
+h2{
+	text-align: center;
+	text-shadow: 2px 2px #ece2d0;
+	font-family: 'Dancing Script', cursive;
+	font-size: 2rem;
+	margin-top: 5vh;
+}
+section{
+	margin-top: 5ovh;
+}
+.i1 img{
+	height:50vh;
+	background-color: black;
+	box-shadow: 4px 4px #635E5D;
+}
+.i2 img{
+	height:50vh;
+	margin-top: 5vh;
+	box-shadow: 4px 4px #635E5D;
+}
+.i3 img{
+	height:50vh;
+	margin-top: 5vh;
+	box-shadow: 4px 4px #635E5D;
+}
+.i4 img{
+	height:70vh;
+	margin-top: 5vh;
+	box-shadow: 4px 4px #635E5D;
+}
+.i5 img{
+	height:90vh;
+	margin-top: 5vh;
+	box-shadow: 4px 4px #635E5D;
+}
+

@@ -1,0 +1,186 @@
+/*// Extra small devices (portrait phones, less than 576px)*/
+/*// No media query for `xs` since this is the default in Bootstrap*/
+
+@media (min-width: 550px){
+		.yo{
+			height: 50vh;
+			margin-left: 5%;
+		}
+		.texto{
+			margin-top: 10vh;
+		}
+		footer{
+		background-color: black;
+		margin-top: 15vh;	
+	}
+
+
+}
+/*// Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+		header h1,img{
+		display: inline-block;
+	}
+		nav{
+		margin: center;
+		position: relative;
+	}
+	nav li{
+		display: inline-block;
+		list-style-type: none;
+		margin-left: : 5vw;
+		margin-right: 5vw;
+	}
+	.ojo{
+		position: absolute;
+		right: 42.5%;
+		top: 2.5vh;
+	}
+	.p,.m{
+		margin: 5%;
+	}
+	header .p{
+		position: relative;
+		right:  5%;
+	}
+	header .m{
+		position: relative;
+		left: 15%;
+	}
+		nav{
+		text-align: center;
+		position: relative;
+	}
+	nav li{
+		display: inline-block;
+		list-style-type: none;
+		margin-left: : 5vw;
+		margin-right: 5vw;
+	}
+	.yo{
+		height: 70vh;
+		left: 5%;
+	}
+	.texto{
+		margin-left: 15%;
+		margin-right: 5%;
+		position: absolute;
+		left: : 35%;
+	}
+	.hab{
+	margin-top: 50vh;
+}
+}
+
+/*// Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+
+	main .yo, .texto{
+		display: inline-block;
+	}
+	.yo{
+		height: 70vh;
+		left: 5%;
+	}
+	.texto{
+		margin-left: 15%;
+		margin-right: 5%;
+		position: relative;
+		left: : 10%;
+	}
+	.hab{
+		margin-top: -10vh;
+	}
+
+}
+/*// Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) { 
+	header h1,img{
+		display: inline-block;
+	}
+	h1{
+		font-size: 3rem;
+	}
+	.p,.m{
+		margin: 2.5%;
+		margin-right: 10%;
+	}
+		.ojo{
+		position: absolute;
+		right: 45%;
+		top: 2vh;
+	}
+
+	header .p{
+		position: relative;
+		right:  5%;
+	}
+	header .m{
+		position: relative;
+		left: 15%;
+	}
+	nav li{
+		display: inline-block;
+		list-style-type: none;
+		position: relative;
+		right: 2.5%;
+	}
+	.presentacion{
+		display: inline-block;
+	}
+	.yo{
+		height: 70vh;
+		position: absolute;
+		left: 15%;
+	}
+	
+	h2{
+		margin-left: 10%;
+	}
+	.texto{
+		margin-top: -4%;
+		left: 50%;
+		width: 55vh;
+	}
+	.intro{
+		margin-left: 5%;
+		margin-right: 5%;	
+	}
+	.hab{
+		position: relative;
+	    margin-top: 20vh;
+}
+	
+/*// Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+		.presentacion{
+		display: inline-block;
+	}
+	.yo{
+		height: 70vh;
+		position: absolute;
+		left: 15%;
+		
+	}
+	.presentacion{
+		display: inline-block;
+	}
+	
+	h2{
+		margin-left: 10%;
+	}
+	.texto{
+		margin-top: -4%;
+		left: 50%;
+		width: 55vh;
+	}
+	.intro{
+		margin-left: 5%;
+		margin-right: 5%;	
+	}
+	.hab{
+		position: relative;
+	    margin-top: 20vh;
+}
+}
+
